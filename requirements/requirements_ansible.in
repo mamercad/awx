@@ -1,5 +1,5 @@
 # GCE
-apache-libcloud==2.5.0
+apache-libcloud==2.8.3
 google-auth==1.6.2    # needed for gce inventory imports
 # Azure
 # azure deps from https://github.com/ansible/ansible/blob/stable-2.9/packaging/requirements/requirements-azure.txt
